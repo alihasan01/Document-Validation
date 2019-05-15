@@ -1,4 +1,5 @@
 "use strict";
+//This Function is working perfectly fine to get the files names and store in the array
 var _getAllFilesFromFolder = function (dir) {
     var filesystem = require("fs");
     var results = [];

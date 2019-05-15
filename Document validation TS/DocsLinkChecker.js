@@ -90,3 +90,4 @@ var nums = Walker();
 for (var i in nums) {
     console.log(nums[i]);
 }
+//There is some sync and Async issue so this code is not working properly
